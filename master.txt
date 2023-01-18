@@ -6,5 +6,6 @@
 <body>
 <h1>JR's Git World!!!</h1>
 <p>JR's First Repositry</p>
+<p>a new line in our file!</p>
 </body>
 </html>
