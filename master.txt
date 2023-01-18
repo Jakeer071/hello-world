@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head> <title> JR's Git</title>
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
+<h1>JR's Git World!!!</h1>
+<p>JR's First Repositry</p>
+</body>
+</html>
