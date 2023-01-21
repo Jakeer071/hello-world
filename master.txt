@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 <head> <title> JR's Git</title>
+<link rel="stylesheet" href="bluestyle.css">
+<meta charset="UTF-8">
+<title>JR's Git</title>
+<meta name="viewport" content="width-initial-width,initial-scale=1">
 <link rel="stylesheet" href="bluestyle.css">
 </head>
 
@@ -11,13 +15,16 @@
 style="width:100%;max-width:960px"></div>
 
 <p>JR's First Repositry</p>
-<<<<<<< HEAD
 <p>This line is here to show how merging works.</p>
-=======
 <p>A new line in our file</p>
 <div><img src="img_hello_world.jpg" alt="Hello JR Git"
 style="width:100%;max-width:640px"></div>
->>>>>>> hello-world-images
+
+<p>JR's Git</p>
+<p>This line is here to show how merging works.</p>
+<p>A new line in our file</p>
+<div><img src="img_hello_world.jpg" alt="Hello JR Git"
+style="width:100%;max-width:640px"></div>
 
 </body>
 </html>
